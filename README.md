@@ -2,7 +2,7 @@
 This web application gives the user the ability to log into their own account and leave a message about their experience in a recent interview. The user has the ability to favorite messages and delete their message.
 
 ![alt tag](public/img/loginSS.png)
-![alt tag](public/img/profile.png)
+![alt tag](public/img/profileSS.png)
 
 
 ## How It's Made:
