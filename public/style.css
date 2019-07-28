@@ -1,0 +1,38 @@
+* {
+box-sizing: border-box;
+}
+
+body{
+
+}
+img{
+  height: 200px;
+}
+.billie {
+  border-radius: 50%;
+  height: 130px;
+  margin-left: 4%;
+  width: 90%;
+}
+/* Sections */
+.well {
+  float: left;
+  width: 60%;
+}
+h3 {
+  text-align: center;
+}
+ul {
+  background-color: rgb(245,245,245);
+  margin-left: 35%;
+  padding: 0;
+}
+li {
+  border: 3px solid grey;
+  color: black;
+  list-style-type: none;
+}
+#rightCol h3 {
+  text-align: center;
+  margin-left: 35%;
+}
